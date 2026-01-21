@@ -7,3 +7,7 @@
 ```python
 print('Hello World!')
 ```
+
+- [ ] `$ git add`
+- [ ] `$ git commit -m 'commit_message'`
+- [ ] `$ git push`
